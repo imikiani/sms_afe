@@ -1,0 +1,7 @@
+name: SMS AFE
+type: module
+description: Provides integration between afe.ir gateway and SMS Framework.
+core: 8.x
+package: SMS Framework
+dependencies:
+  - sms
